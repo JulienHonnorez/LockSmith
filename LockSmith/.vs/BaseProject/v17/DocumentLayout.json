@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projets\\BaseProject2025\\BaseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\data\\mygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\mygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|d:\\projets\\baseproject2025\\baseproject\\assets\\scripts\\ui\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\ui\\languageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\languageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\data\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\data\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\data\\settingsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\settingsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|d:\\projets\\baseproject2025\\baseproject\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\flyingbutter\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingbutter\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\data\\gameversiondisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gameversiondisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|d:\\projets\\baseproject2025\\baseproject\\assets\\scripts\\managers\\exceptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\exceptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|d:\\projets\\baseproject2025\\baseproject\\assets\\scripts\\data\\constantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\constantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|D:\\Projets\\BaseProject2025\\BaseProject\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6832F195-A864-FBC1-B4A1-641CE4C408CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:19:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:17:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Managers\\ExceptionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ExceptionManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Managers\\ExceptionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ExceptionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:14:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:57:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyGameManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\MyGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\MyGameManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\MyGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\MyGameManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:38:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageLoader.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:57:51.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameVersionDisplayer.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\GameVersionDisplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameVersionDisplayer.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\GameVersionDisplayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameVersionDisplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:50:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\TagManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\TagManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\TagManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\TagManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:46:28.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsLoader.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\SettingsLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SettingsLoader.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\SettingsLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SettingsLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:33:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConstantManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\ConstantManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ConstantManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\ConstantManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\ConstantManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:27:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SettingsManager.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\Data\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:25:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Launcher.cs",
+              "DocumentMoniker": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\FlyingButter\\Launcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingButter\\Launcher.cs",
+              "ToolTip": "D:\\Projets\\BaseProject2025\\BaseProject\\Assets\\Scripts\\FlyingButter\\Launcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingButter\\Launcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:24:53.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

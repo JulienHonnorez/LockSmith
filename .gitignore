@@ -1,0 +1,13 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+LockSmith/[Ll]ibrary/
+LockSmith/[Tt]emp/
+LockSmith/[Oo]bj/
+LockSmith/[Bb]uild/
+LockSmith/[Bb]uilds/
+LockSmith/[Ll]ogs/
+LockSmith/[Mm]emoryCaptures/
+SteamSDK/
+

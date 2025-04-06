@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projets\\LockSmith\\LockSmith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\ui\\voiceloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\voiceloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\vis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\vis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|d:\\projets\\locksmith\\locksmith\\assets\\scripts\\player\\sliderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sliderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\numberswitcherbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\numberswitcherbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\numberswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\numberswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\numberlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\numberlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\multisliderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\multisliderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\movableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\ui\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\lockercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\lockercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\utils\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\ui\\languageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\languageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\dirtylocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\dirtylocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\dirty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\dirty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\digitalnumberlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\digitalnumberlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\player\\digitalnumberbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\digitalnumberbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|D:\\Projets\\LockSmith\\LockSmith\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9C21-95A2-17FD-9333-AA6D86E23D87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceLoader.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\VoiceLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\VoiceLoader.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\VoiceLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\VoiceLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:48:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:56:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelLoader.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Utils\\LevelLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\LevelLoader.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Utils\\LevelLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\LevelLoader.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:50:04.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:04:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LockerCache.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\LockerCache.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\LockerCache.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\LockerCache.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\LockerCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:04:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vis.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Vis.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Vis.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Vis.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Vis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:40:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DigitalNumberLocker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DigitalNumberLocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DigitalNumberLocker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DigitalNumberLocker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DigitalNumberLocker.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:05:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DigitalNumberButton.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DigitalNumberButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DigitalNumberButton.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DigitalNumberButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DigitalNumberButton.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:58:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LanguageLoader.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LanguageLoader.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAjwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:24:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumberLocker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberLocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NumberLocker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberLocker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NumberLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:30:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberSwitcherButton.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberSwitcherButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NumberSwitcherButton.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberSwitcherButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NumberSwitcherButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:16:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberSwitcher.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NumberSwitcher.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\NumberSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NumberSwitcher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:09:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiSliderLocker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\MultiSliderLocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MultiSliderLocker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\MultiSliderLocker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MultiSliderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:40:40.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DirtyLocker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DirtyLocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DirtyLocker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\DirtyLocker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DirtyLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:34:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dirty.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Dirty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Dirty.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Dirty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Dirty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:32:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Door.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:20:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderLocker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\SliderLocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SliderLocker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\SliderLocker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SliderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:50:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Locker.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Locker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Locker.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\Locker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Locker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:49:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovableObject.cs",
+              "DocumentMoniker": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\MovableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovableObject.cs",
+              "ToolTip": "D:\\Projets\\LockSmith\\LockSmith\\Assets\\Scripts\\Player\\MovableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:24:11.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
